@@ -4,6 +4,17 @@ QuasarRecovery is a read-only configuration recovery tool for built Quasar clien
 
 It parses a .NET executable with dnlib, locates the obfuscated Quasar `Settings` class, extracts encrypted configuration fields, and decrypts them using Quasar’s AES-256 configuration encryption format.
 
+
+
+
+##Screenshot
+
+
+
+<img width="1298" height="916" alt="image" src="https://github.com/user-attachments/assets/8c0bfa47-62c9-455c-a35c-f3cfc1365fc3" />
+
+
+
 ## Features
 
 - Read-only static analysis
