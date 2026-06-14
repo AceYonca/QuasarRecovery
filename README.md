@@ -6,6 +6,10 @@ It parses a .NET executable with dnlib, locates the obfuscated Quasar `Settings`
 
 
 
+## Demonstration
+
+[![Watch Demo](https://img.youtube.com/vi/4IlYxHCPQPU/maxresdefault.jpg)](https://www.youtube.com/watch?v=4IlYxHCPQPU)
+
 
 ##Screenshot
 
